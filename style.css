@@ -947,6 +947,7 @@ li {
 
     .look {
         float: none;
+	font-size: 30px;
         margin-bottom: 35px;
         padding-left: 10px;
         width: 100%;
