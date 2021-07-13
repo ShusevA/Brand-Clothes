@@ -665,7 +665,7 @@ li {
 
     /* SHOWCASE */
 
-    .showcase h2 {
+    .look {
         font-size: 49px;
     }
 
@@ -942,7 +942,7 @@ li {
 
     .showcase {
         padding: 0;
-        margin-bottom: 140px;
+        margin-bottom: 70px;
     }
 
     .look {
@@ -1084,7 +1084,7 @@ li {
     .blog {
         display: flex;
         flex-direction: column;
-        margin-bottom: 60px;
+        margin-bottom: 30px;
         padding: 0;
     }
 
@@ -1148,13 +1148,14 @@ li {
     }
 
     .show-block .text-h2 {
+	padding-left: 10px;
         margin-bottom: 40px;
     }
 
     /* FOOTER */
 
     .footer {
-        padding: 40px 10px 15px;
+        padding: 45px 10px 15px;
     }
     
 
